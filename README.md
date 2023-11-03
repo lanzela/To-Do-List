@@ -1,4 +1,5 @@
 # To-Do List Project
+<img width="376" alt="Final Result" src="https://github.com/lanzela/To-Do-List/assets/91339323/e066e200-ecac-41eb-bf5d-146160696c71">
 
 This is a simple web-based to-do list application that allows you to manage your tasks. It is built using HTML, CSS, and JavaScript and includes the following functionalities:
 
