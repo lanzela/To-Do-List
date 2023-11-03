@@ -15,6 +15,9 @@ This is a simple web-based to-do list application that allows you to manage your
 4. **Data Persistence:**
    - Your to-do list data is saved in the browser's local storage. This means that even if you reload the page, close and reopen it, or come back later, your tasks will still be there.
 
+## Responsive Design
+This project is designed to work seamlessly on both desktop and mobile devices. The responsive design ensures that the user experience is consistent, no matter what device you are using.
+
 ## Getting Started
 
 To run this project locally, follow these steps:
